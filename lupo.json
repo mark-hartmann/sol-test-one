@@ -1,6 +1,6 @@
 {
   "packages": {
     "yonaba/30log": "30log-1.3.0-1",
-    "mark-hartmann/sol-test-two": "0.1.0"
+    "mark-hartmann/sol-test-two": "0.1.1",
   }
 }
